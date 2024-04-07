@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*-
+"""
+@author: ChatRoom ==> Client
+"""
 import socket
 
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
